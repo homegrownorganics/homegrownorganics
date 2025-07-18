@@ -1,4 +1,4 @@
-# homegrownorganics
+# homegrownorganics.github.io
 Harvest, Share, Regenerate 
 # Welcome to Homegrown 🍲
 
